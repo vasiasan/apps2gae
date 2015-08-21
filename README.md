@@ -1,2 +1,2 @@
 # apps2gae
-Google groups manegment via App Engine platform.
+Google groups managment via App Engine platform.
